@@ -8,3 +8,4 @@
       you might not wish to show your customers the data contained within, then you can put the printout inside of a HTML-comment or <span style="display:none;"></span> block
 -->
 <span style="display:none;">{$variable|@print_r}</span>
+<!-- {$variable|@print_r} -->
