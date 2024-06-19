@@ -1,0 +1,4 @@
+1. How to set a user to SuperAdmin via Database in PrestaShop?
+   - Go to PHPMyAdmin, visit database table called ps_employee, inside it you will see id_profile, this value can be edited to be set to the value 1 - which is required for SuperAdmin access on site.
+
+2. 
